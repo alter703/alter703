@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+__I have a computer__
+
 <!--
 **alter703/alter703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
